@@ -48,6 +48,9 @@
         margin-bottom: 22px;
         line-height: 64px;
     }
+    .page-header {
+        height: 200vh;
+    }
 }
 
 @media (max-width: 866px) {
@@ -102,9 +105,6 @@
     }
     .seasons__item-num {
         font-size: 74px;    ;
-    }
-    .page-header {
-        height: 140vh;
     }
     .season-info {
         padding-left: 10px;
